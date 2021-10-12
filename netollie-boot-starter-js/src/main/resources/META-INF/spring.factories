@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.netollie.boot.starter.js.autoconfigure.JsEngineAutoConfigure

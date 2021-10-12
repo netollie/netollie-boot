@@ -1,0 +1,7 @@
+logging:
+  level:
+    com.netollie.boot: DEBUG
+
+netollie:
+  js-engine:
+      base-packages: "com.netollie.boot.starter.demo.engine.js"
