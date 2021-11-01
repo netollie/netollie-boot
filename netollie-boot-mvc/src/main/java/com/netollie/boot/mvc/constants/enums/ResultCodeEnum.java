@@ -1,6 +1,6 @@
-package com.netollie.boot.commons.mvc.constants.enums;
+package com.netollie.boot.mvc.constants.enums;
 
-import com.netollie.boot.commons.mvc.type.IResultCode;
+import com.netollie.boot.mvc.type.IResultCode;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 

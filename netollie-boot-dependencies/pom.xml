@@ -38,12 +38,12 @@
             </dependency>
             <dependency>
                 <groupId>com.netollie</groupId>
-                <artifactId>netollie-boot-starter-js</artifactId>
+                <artifactId>netollie-boot-mvc</artifactId>
                 <version>${project.version}</version>
             </dependency>
             <dependency>
                 <groupId>com.netollie</groupId>
-                <artifactId>netollie-boot-starter-mvc</artifactId>
+                <artifactId>netollie-boot-starter-js</artifactId>
                 <version>${project.version}</version>
             </dependency>
             <!-- Spring Cloud -->

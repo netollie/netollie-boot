@@ -21,6 +21,10 @@
     <dependencies>
         <dependency>
             <groupId>com.netollie</groupId>
+            <artifactId>netollie-boot-mvc</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.netollie</groupId>
             <artifactId>netollie-boot-starter-js</artifactId>
         </dependency>
     </dependencies>

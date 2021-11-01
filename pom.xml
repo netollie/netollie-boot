@@ -19,6 +19,7 @@
         <module>netollie-boot-commons</module>
         <module>netollie-boot-dependencies</module>
         <module>netollie-boot-loadbalancer</module>
+        <module>netollie-boot-mvc</module>
         <module>netollie-boot-parent</module>
         <module>netollie-boot-starter-js</module>
         <module>netollie-boot-demo</module>

@@ -1,4 +1,4 @@
-package com.netollie.boot.commons.mvc.type;
+package com.netollie.boot.mvc.type;
 
 import org.junit.Assert;
 import org.junit.Test;

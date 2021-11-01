@@ -1,6 +1,6 @@
-package com.netollie.boot.commons.mvc.type;
+package com.netollie.boot.mvc.type;
 
-import com.netollie.boot.commons.mvc.constants.enums.ResultCodeEnum;
+import com.netollie.boot.mvc.constants.enums.ResultCodeEnum;
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;
 import lombok.Getter;

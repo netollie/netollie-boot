@@ -1,6 +1,6 @@
 package com.netollie.boot.starter.demo.controller;
 
-import com.netollie.boot.commons.mvc.type.JsonResponse;
+import com.netollie.boot.mvc.type.JsonResponse;
 import com.netollie.boot.starter.demo.engine.js.StringEngine;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

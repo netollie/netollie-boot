@@ -1,4 +1,4 @@
-package com.netollie.boot.commons.mvc.constants.enums;
+package com.netollie.boot.mvc.constants.enums;
 
 import org.junit.Assert;
 import org.junit.Test;
